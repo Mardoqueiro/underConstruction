@@ -12,7 +12,8 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background: url("https://vidyasheela.com/web-contents/website-components/Coming-Soon-Pages/website-under-construction-page-template-html/construction.jpg") #08093cb3;
+    /* background: url("https://vidyasheela.com/web-contents/website-components/Coming-Soon-Pages/website-under-construction-page-template-html/construction.jpg") #08093cb3; */
+    background: url("../image/RetroQueiro.png") #08093cb3;
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
